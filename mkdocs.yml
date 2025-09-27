@@ -1,5 +1,6 @@
 site_name: uPorta
 site_url: https://uporta.com
+
 theme:
   name: material
   language: es
@@ -9,30 +10,29 @@ theme:
     - content.code.copy
     - search.suggest
     - search.highlight
+
 plugins:
   - search
   - i18n:
       default_language: es
       languages:
-        es: Español
-        en: English
+        - locale: es
+          name: Español
+          build: true
+        - locale: en
+          name: English
+          build: true
       nav_translations:
-        Inicio: Home
-        Blog: Blog
-        "Diseño para la Fricción Cotidiana": "Design for Daily Friction"
-        "El Diseño como Puente": "Design as a Bridge"
-        "Intimidad y Agilidad": "Intimacy and Agility"
+        en:
+          Inicio: Home
+          Blog: Blog
+          "Diseño para la Fricción Cotidiana": "Design for Daily Friction"
+          "El Diseño como Puente": "Design as a Bridge"
+          "Intimidad y Agilidad": "Intimacy and Agility"
+
 nav:
   - Inicio: index.md
   - Blog:
       - "Diseño para la Fricción Cotidiana": blog/entrada1.md
       - "El Diseño como Puente": blog/entrada2.md
-      - "Intimidad y Agilidad": blog/entrada3.md
-markdown_extensions:
-  - admonition
-  - toc:
-      permalink: true
-  - footnotes
-  - attr_list
-  - def_list
-  - md_in_html
+      - "Intim
