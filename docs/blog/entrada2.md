@@ -18,7 +18,3 @@ Gracias a avances en diseño industrial y automatización, es posible **integrar
 - Menor huella y costes operativos al consolidar máquinas/espacios.
 - Cadena de suministro local más simple y flexible.
 - Impulso a productores de proximidad y menor desperdicio por compras unitarias.
-
-## Referencias (APA)
-- Gumball Inc. (2025). *Latest Vending Machine Technology*.
-- WindowsWear. (2020). *How vending machines could play an important role…*.

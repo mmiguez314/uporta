@@ -12,8 +12,4 @@ Probarse ropa suele implicar esperas, poca privacidad y rupturas de flujo al cam
 - **Autonomía y confianza** al decidir sin presión social.
 - **Ciclos de prueba rápidos** al cambiar talla/modelo con un toque.
 - **Compra instantánea** en la cabina (pagas y sales vestido).
-- **Nuevos hábitos**: micro‑probadores en ubicaciones urbanas.
-
-## Referencias (APA)
-- nss magazine. (2024). *What is fitting room frustration?* (Zalando/YouGov).
-- WindowsWear. (2020). *How vending machines could play an important role…*.
+- **Nuevos hábitos**: micro-probadores en ubicaciones urbanas.

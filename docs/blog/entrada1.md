@@ -17,8 +17,3 @@ La vida urbana incluye pequeñas fricciones: filas, horarios limitados, interfac
 
 ## Impacto esperado
 Una experiencia fluida y confiable acorde al ritmo urbano, con menos esperas y mayor autonomía del usuario.
-
-## Referencias (APA)
-- Gumball Inc. (2025). *Latest Vending Machine Technology*.
-- Vending‑Machines.ie. (2023). *How Do Vending Machines Address Accessibility and Inclusivity?* (Blog).
-- Cimei, N. (2020). *How vending machines could play an important role…*. WindowsWear.

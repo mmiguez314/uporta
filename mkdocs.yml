@@ -15,22 +15,14 @@ plugins:
   - search
   - i18n:
       docs_structure: suffix
-      default_language: es
       languages:
         - locale: es
           name: Español
-          default: true   # <- ES es el idioma por defecto
-          build: true     # <- construir ES
+          default: true
+          build: true
         - locale: en
           name: English
-          build: true     # <- construir EN
-      nav_translations:
-        en:
-          Inicio: Home
-          Blog: Blog
-          "Diseño para la Fricción Cotidiana": "Design for Daily Friction"
-          "El Diseño como Puente": "Design as a Bridge"
-          "Intimidad y Agilidad": "Intimacy and Agility"
+          build: true
 
 nav:
   - Inicio: index.md
