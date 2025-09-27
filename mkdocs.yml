@@ -35,4 +35,13 @@ nav:
   - Blog:
       - "Diseño para la Fricción Cotidiana": blog/entrada1.md
       - "El Diseño como Puente": blog/entrada2.md
-      - "Intim
+      - "Intimidad y Agilidad": blog/entrada3.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - footnotes
+  - attr_list
+  - def_list
+  - md_in_html
