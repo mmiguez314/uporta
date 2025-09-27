@@ -14,14 +14,16 @@ theme:
 plugins:
   - search
   - i18n:
+      docs_structure: suffix
       default_language: es
       languages:
         - locale: es
           name: Español
-          build: true
+          default: true   # <- ES es el idioma por defecto
+          build: true     # <- construir ES
         - locale: en
           name: English
-          build: true
+          build: true     # <- construir EN
       nav_translations:
         en:
           Inicio: Home
